@@ -1,6 +1,6 @@
 # Pandemic-tour-guide
 Small python app that gives travel information during the pandemic.
-
+This project was created by Andy Liu (https://github.com/andy-liuu), Arsalaan Ali (https://github.com/ArsalaanAli), and Miraj Ismail (https://github.com/mirajismail)
 
 ## Dependencies
 On the command prompt, type `pip install pygame`, `pip install covidpy` and `pip install countryinfo`
